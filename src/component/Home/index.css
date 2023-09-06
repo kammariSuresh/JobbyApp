@@ -1,0 +1,14 @@
+.bg-home-container {
+  height: 90vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.main-heading-card {
+  height: 50vh;
+  width: 40%;
+}
+
+@media screen and (max-width: );
